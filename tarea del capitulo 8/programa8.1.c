@@ -70,4 +70,4 @@ a3. */
 printf("\nDatos del alumno 3\n");
 printf("5%d \t %s \t %s \t %.2f \t %s", a3.matricula, a3.nombre, a3.carrera,
 a3.promedio, a3.direccion);
-}`
+}
